@@ -3,7 +3,9 @@
 
 ![My Image](https://drive.google.com/uc?id=1CosZ0TIWUL-nWG9jP-1ZnVkx5IQVUe2v)
 
-[Demo Video](https://drive.google.com/file/d/18SRwKCNDd6M_pewOTV-dXU-WS4er2ouT/view?usp=sharing)
+[Website](https://main--cryptic-canvas.netlify.app/) 
+
+[Demo Video](https://drive.google.com/file/d/18SRwKCNDd6M_pewOTV-dXU-WS4er2ouT/view?usp=sharing) 
 
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
@@ -36,7 +38,7 @@ This innovation is particularly relevant as existing color-enabled CCTV cameras 
 
 To start using Cryptic Canvas, simply follow these steps:
 
-1. Visit our Website.
+1. Visit our [Website](https://main--cryptic-canvas.netlify.app/).
 2. Click on Live Demo button.
 3. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
 4. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
