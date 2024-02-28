@@ -37,7 +37,7 @@ This innovation is particularly relevant as existing color-enabled CCTV cameras 
 To start using Cryptic Canvas, simply follow these steps:
 
 1. Visit our Website.
-2. Click on live Demo
+2. Click on Live Demo button.
 3. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
 4. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
 5. Sit back and watch as our advanced algorithms add stunning color to your content.
