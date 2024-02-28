@@ -29,7 +29,7 @@ Cryptic Canvas offers several convenient options for colorizing your content:
 
 6. **Live Video Colorization:** Take your colorization experience to the next level with our live video colorization feature. This is mostly built for security cameras to show the video in color even at night.
 
-## Use Cases
+## Application
 
 Our primary objective is to enhance the quality of CCTV camera footage by converting monochromatic imagery into full-color representations.
 This innovation is particularly relevant as existing color-enabled CCTV cameras typically require integrated light sources, leading to increased electricity consumption and compromising the covert nature of surveillance by revealing the camera's location.
