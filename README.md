@@ -117,7 +117,7 @@ git push -u origin main
 
 ## Feedback
 
-We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, or suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
+We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, suggestions, or encounter any issues while using our platform, please don't hesitate to contact us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
 
 ## Contact Us
 
