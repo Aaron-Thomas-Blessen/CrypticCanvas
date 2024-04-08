@@ -121,6 +121,6 @@ We're constantly striving to improve Cryptic Canvas to provide the best possible
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding Cryptic Canvas, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding Cryptic Canvas, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/) or at [Twitter](https://twitter.com/aaron_blessen). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
 
 Thank you for choosing Cryptic Canvas. We hope you enjoy adding vibrant color to your images and videos!
