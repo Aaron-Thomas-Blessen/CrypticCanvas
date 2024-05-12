@@ -1,5 +1,5 @@
 import streamlit as st
-import numpy as np
+import numpy as np 
 import cv2
 
 def colorize_image(img):
